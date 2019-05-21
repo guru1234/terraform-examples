@@ -1,0 +1,64 @@
+Terraform Basics
+-----------
+What is Devops 
+
+App - > you need run on physerver/infrastructure 
+10(CICD) - > 100 physical servers (getting up and running )
+Datacenter 
+Linux admin 
+Enviroment team 
+
+6 to 8 months minium - back in 2005 
+
+-> Cloud - Infrastructure 
+
+10k 20k 
+
+10 apps in Java - Aws 
+10 in Mainframe -> physical 
+10 app .net  - Azure 
+
+What is IAAC 
+IAAC will allows blueprint of your centers to be versioned as code.
+
+What is terraform 
+Terraform is infrastructure as code tool, to build, change and version control your infrastructure and safely and efficiently.
+
+Terraform workins any provider with computing, network and storage 
+
+Terraform alerternatives
+cobbler, foreman, cloudformation, 
+
+VM is ready with Terraform 
+Ansible/puppet/Chef -> configruting users/ssh keys/yum repos/install java min softwares. 
+
+Terraform installation 
+
+Terraform terminology
+
+Terraform code is collection configuration files 
+.tf
+.tfvars 
+
+HCL 
+
+Terraform init 
+Intialize the local enviroment, .terraform 
+
+Terraform Plan
+Before applying changes, it will show the execution plan 
+
+Terraform apply 
+Apply the changes 
+
+Terraform show 
+
+show the provisioned resources 
+
+ 
+
+
+Terraform examples - AWS for today session 
+
+
+
